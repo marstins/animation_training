@@ -1,4 +1,4 @@
-# CSS Transitions e Animations 
+# CSS Transitions and Animations 
 
 Projeto de portfólio usando animações e transições. 
 
